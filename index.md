@@ -7,8 +7,7 @@ Bienvenidos a nuestra materia de Postproducción Digital que se imparte en la in
 
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
-- [Calendario.]()
-academia/horario2026-02.jpeg
+- [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
 - El Syllabus
 - El reglamento general de la asignatura
 - El reglamento de laboratorios
