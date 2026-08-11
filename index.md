@@ -14,7 +14,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - Documento de información general que esta en el Blackboard
 - Acceso a Blackboard
 - Acreditación de la materia
-- Biblografia y referencias
+- Biblografía y referencias
 - Software necesario
 - Firma de Syllabus
 
