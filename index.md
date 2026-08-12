@@ -1,6 +1,7 @@
 ---
 title: Bienvenida
 layout: home
+nav_order: 1
 ---
 
 Bienvenidos a nuestra materia de Postproducción Digital que se imparte en la ingeniería en animación e interactividad.
@@ -12,7 +13,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - El reglamento general de la asignatura
 - El reglamento de laboratorios
 - Documento de información general que esta en el Blackboard
-- Acceso a Blackboard
+- [Acceso a Blackboard](https://uvmonline.blackboard.com)
 - Acreditación de la materia
 - Biblografía y referencias
 - Software necesario
