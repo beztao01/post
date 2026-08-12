@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Sesión 01
+- [Reloj](https://beztao01.github.io/relok-uvm/)
 - [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
 - El Syllabus.
 - El reglamento general de la asignatura.
