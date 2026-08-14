@@ -13,10 +13,10 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - [El Syllabus.](/assets/PVEY0014A_L6.docx) 
 - El reglamento general de la asignatura
 - [El reglamento de laboratorios](/assets/laboratorios.pdf)
-- Documento de información general que esta en el Blackboard
+- [Documento de información general](/assets/DIG_PA.pdf) 
 - [Acceso a Blackboard](https://uvmonline.blackboard.com)
 - Acreditación de la materia
-- Biblografía y referencias
+- [Biblografía y referencias](referencias.html) 
 - Software necesario
 - Firma de Syllabus
 

@@ -10,7 +10,7 @@ nav_order: 2
 - [El Syllabus.](/assets/PVEY0014A_L6.docx) 
 - El reglamento general de la asignatura.
 - [El reglamento de laboratorios](./assets/pdf/laboratorios.pdf)
-- Documento de información general que esta en el Blackboard
+- [Documento de información general](/assets/DIG_PA.pdf) 
 - [Acceso a Blackboard](https://uvmonline.blackboard.com)
 - Acreditación de la materia.
 - Biblografía y referencias.
