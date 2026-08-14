@@ -10,7 +10,7 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 
 - [Reloj](https://beztao01.github.io/relok-uvm/)
 - [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
-- [El Syllabus](/assets/PVEY0014A_L6.docx) 
+- [El Syllabus.](/assets/PVEY0014A_L6.docx) 
 - El reglamento general de la asignatura
 - [El reglamento de laboratorios](/assets/laboratorios.pdf)
 - Documento de información general que esta en el Blackboard
