@@ -55,3 +55,29 @@ animación? [Archivo de video. Recuperado de https://youtu.be/bxnu68CsEaM?si=vNG
 
 
 Markup.io. (2024). Video production workflow: 5-step guide. [Sitio web Recuperado de https://www.markup.io/blog/video-production-workflow/](https://www.markup.io/blog/video-production-workflow/) 
+
+## Sugerencias de Sandoval
+### Adobe
+Ayuda de Adobe Premier [Aquí](https://helpx.adobe.com/mx/premiere/desktop.html) 
+
+Ayuda de Adobe After [Aquí](https://helpx.adobe.com/mx/after-effects/desktop.html)
+
+Ayuda de Adobe Audition [Aquí](https://helpx.adobe.com/mx/audition/desktop.html)
+
+### Libres
+
+Davinci Resolve [Aquí](https://www.blackmagicdesign.com/mx/products/davinciresolve)
+
+Blender [Aquí](https://www.blender.org/)
+
+Audacity [Aqui](https://www.audacityteam.org/)
+
+LLMS [Aquí](https://lmms.io/)
+
+### Sitios web
+
+Pexels [Aquí](https://lmms.io/)
+
+Jamendo [Aquí](https://www.jamendo.com/?language=es)
+
+
