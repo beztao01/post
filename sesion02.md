@@ -13,8 +13,13 @@ nav_order: 3
 - [¿Cómo funciona el Pipeline de VFX?](https://youtu.be/_zn_1cf87vc)
 - Firma de Syllabus
 
-Programas a utilizar
+## Programas a utilizar
 - [Davinci Resolve](https://www.blackmagicdesign.com/mx/products/davinciresolve)
+- [Blender 5.2 LTS](https://www.blender.org)
+- Audacity, lo puedes localizar dentro de Portable Apps o [Aquí](https://www.audacityteam.org)
+- LMMS, lo puedes localizar dentro de Portable Apps o [Aqui](https://lmms.io)
+- [Adobe Premier Ayuda](https://helpx.adobe.com/premiere/desktop.html) 
+
 
 ## Requierimientos técnicos de Davinci 
 
