@@ -76,7 +76,7 @@ LLMS [Aquí](https://lmms.io/)
 
 ### Sitios web
 
-Pexels [Aquí](https://lmms.io/)
+Pexels [Aquí](https://www.pexels.com/es-es/)
 
 Jamendo [Aquí](https://www.jamendo.com/?language=es)
 
