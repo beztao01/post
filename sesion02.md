@@ -40,4 +40,4 @@ Para ejecutar DaVinci Resolve con fluidez, tu equipo necesita cumplir con especi
 - Disco: Se requiere un disco de estado sólido (SSD) con espacio libre para instalar el software y almacenar la caché del proyecto de forma fluida.
 
 ## Blackboard
-Todas las actividades se entregan a las 3:00 am
+Todas las actividades se entregan a las 3:00 am los días lunes.
