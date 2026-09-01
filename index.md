@@ -17,6 +17,6 @@ En esta primera sesión veremos una serie de puntos importante que te mencionar�
 - [Acceso a Blackboard](https://uvmonline.blackboard.com)
 - Acreditación de la materia
 - [Biblografía y referencias](referencias.html) 
-- [Software necesario](software.md) 
+- [Software necesario](software.html) 
 - Firma de Syllabus
 
