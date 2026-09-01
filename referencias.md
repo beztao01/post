@@ -80,4 +80,6 @@ Pexels [Aquí](https://www.pexels.com/es-es/)
 
 Jamendo [Aquí](https://www.jamendo.com/?language=es)
 
+NotbookLM [Aquí](https://notebook.google.com/notebook/af1e4c1c-3962-4a83-9395-e5af165895e8/preview)
+
 
