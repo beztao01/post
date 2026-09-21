@@ -8,7 +8,7 @@ Bienvenidos a nuestra materia de Postproducción Digital que se imparte en la in
 
 > 📢 **¡ANUNCIO IMPORTANTE!**
 > <div style="background-color: #3b3a3d; color: #e6e1e8; padding: 15px; border-left: 6px solid #5ea1fb; border-radius: 5px;">
->   **Actualizaciones** Traer los insumos para la actividad 3 de BB
+>   **Actualizaciones** 21-09-26 Traer los insumos para la actividad 3 de BB
 > </div>
 
 > 📢 **¡ANUNCIO IMPORTANTE!**
