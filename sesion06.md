@@ -12,7 +12,9 @@ nav_order: 7
 >   
 > </div>
 
+Actividad en clase: 
 
-Programas a utilizar
+Tema libre, secuencia de animación 2 minutos con cambio de audio cada 30 segundos, usando imágenes y videos
+
 ## Blackboard
-Todas las actividades se entregan a las 3:00 am
+Todas las actividades se entregan los lunes a las 3:00 am
