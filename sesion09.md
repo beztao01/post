@@ -9,7 +9,8 @@ nav_order: 10
 
  - [Hero](https://youtu.be/pKmSdY56VtY?si=jwpWhyxsS7PkDsqo)
 
- <!--   [Lo nuevo de Grease Pencil en Blender 5.2](https://youtu.be/PACVH-G8WCY?si=yHv5brYnufdaH0pK) -->
+ <!--  - [Lo nuevo de Grease Pencil en Blender 5.2](https://youtu.be/PACVH-G8WCY?si=yHv5brYnufdaH0pK) -->
+ 
 
 ## Blackboard
 Todas las actividades se entregan los lunes a las 3:00 am
